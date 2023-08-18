@@ -1,4 +1,4 @@
-# EDA ON COVID19 DATASET
+# EDA ON COVID 19 DATASET
 The COVID-19 pandemic, also known as the coronavirus pandemic, is a global pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).This data contains about 19,000 rows and the data used over here is till 29 April 2020. It answers the following questions:
 Q. 1) Show the number of Confirmed, Deaths and Recovered cases in each Region.
 Q. 2) Remove all the records where the Confirmed Cases is Less Than 10.
